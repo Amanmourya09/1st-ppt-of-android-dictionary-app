@@ -137,3 +137,126 @@ Just say the word 😊
 
 आपकी presentation बहुत प्रभावशाली होगी, बस आपको इसे **सहज भाषा में** और **विश्वास के साथ** प्रस्तुत करना है।  
 अगर चाहें तो मैं आपको **PDF version** भी दे सकता हूँ या **Google Slides format** में convert करके दे सकता हूँ।
+
+Bhai, samajh gaya! 🙌 Tumhari request ke hisaab se, niche ek **complete English presentation script** diya hai jo tum apne PPT ko explain karne ke liye use kar sakte ho. Isme introduction bhi hai, aur ye bataaya hai ki:
+
+- Tumne project kyun banaya  
+- Kya problem thi  
+- Tumne usse kaise solve kiya  
+- App kaise kaam karta hai  
+
+---
+
+### 🎤 **Presentation Script in English**
+
+---
+
+#### ✅ Slide 1: Introduction
+
+Hello everyone,
+
+My name is **Aman Mourya**, and I have completed my **Bachelor of Technology (B.Tech)** from **Uttaranchal University**.
+
+Today, I’m going to present a mobile application that I’ve developed called the **"Ayurvedic Dictionary"** — an app designed to help students, practitioners, and even common people understand **Ayurvedic medical terminology** more easily.
+
+This project is a combination of **technology and tradition** — where modern app development meets ancient Indian knowledge of Ayurveda.
+
+---
+
+#### ❓ Slide 2: Why Did I Build This App?
+
+During my studies and research into Ayurveda, I noticed that many students and even professionals face a major issue:
+
+> **“Ayurvedic terms are complex, scattered, and hard to find in one place.”**
+
+Also, most of the content is written in **Sanskrit or old Hindi**, which makes it difficult for new learners or the general public to understand.
+
+So, I asked myself:
+
+> “Can I make this knowledge more accessible using technology?”
+
+That’s how the idea of the **Ayurvedic Dictionary App** was born.
+
+---
+
+#### 🔧 Slide 3: What Problem Does It Solve?
+
+The main problems I wanted to solve were:
+
+1. **Lack of a centralized database** for Ayurvedic terms.
+2. Difficulty in **searching and understanding Sanskrit words**.
+3. No easy way to **pronounce or bookmark** important terms.
+4. Lack of a **user-friendly mobile interface** for Ayurvedic learning.
+
+With this app, I tried to provide a simple yet powerful solution.
+
+---
+
+#### 🧠 Slide 4: What is the Ayurvedic Dictionary App?
+
+The **Ayurvedic Dictionary App** is a mobile application built using **React Native and Expo SDK 53**.
+
+It allows users to search for **Ayurvedic terms in Hindi**, get their **Sanskrit meanings**, and also access additional information like gender, description, and book references.
+
+It acts as a **bridge between traditional Ayurvedic wisdom and modern digital tools**.
+
+---
+
+#### 🚀 Slide 5: Key Features
+
+Let me quickly walk you through the key features of the app:
+
+- 🔍 **Search in Hindi**: Easily find Ayurvedic terms using Hindi keywords.
+- 🔎 **Smart Filters**: Refine your search by word, gender, book reference, etc.
+- ⭐ **Favorites System**: Save important terms for later use.
+- 🕒 **Recent Search History**: The app remembers what you searched recently.
+- 🗣️ **Text-to-Speech**: Listen to the correct pronunciation of terms in Hindi.
+- 💾 **Local Storage**: Uses **AsyncStorage** to save favorites and history.
+- ☁️ **Cloud Sync Ready**: Data can be fetched from a server using **Axios API**.
+- 📱 **Clean UI**: Simple and user-friendly design with clear navigation.
+
+---
+
+#### 💻 Slide 6: Technology Stack
+
+Here’s what I used to build the app:
+
+- **React Native** – For building cross-platform mobile apps
+- **Expo SDK 53** – To simplify development and testing
+- **Axios API** – For connecting to the backend server
+- **AsyncStorage** – For saving favorites and history locally
+- **Cloud Server** – For storing and fetching Ayurvedic data online
+- **Text-to-Speech Library** – For voice pronunciation support
+
+---
+
+#### 🎯 Slide 7: Objective & Vision
+
+My objective was to:
+
+- Make Ayurvedic knowledge **accessible to everyone**
+- Help students and professionals **learn faster and better**
+- Preserve and promote **traditional Indian medicine** using modern tech
+
+I believe this app can become a valuable tool for Ayurvedic education and awareness.
+
+---
+
+#### 🙏 Slide 8: Thank You
+
+That’s all about my **Ayurvedic Dictionary Application Project**.
+
+I would love to answer any questions you might have. Thank you for your time and attention!
+
+---
+
+### ✅ Tips for Your Presentation:
+- Bolein calmly aur confident tone me.
+- Agar koi technical term hai jo aapko nahi pata, bas screen dekh ke bolo — “As shown here…”
+- Apni slides par focus rakho, yaad rakhna ki ye aapka project hai aur aap sabse best jaante hain iske baare me.
+
+---
+
+Agar chaho toh main tumhe **PPT slide-wise points** ya **speaker notes** bhi de sakta hun. Bas bata dena! 😊
+
+All the best bhai! Tu jayega! 🚀💪
